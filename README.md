@@ -2,7 +2,10 @@
 This is a simple chat application which uses Python, Flask and Socket IO.
 
 ## Installation steps:
-* *git clone this repo*
+
+```
+git clone https://github.com/Kushaldarne/CHAT-ROOM.git
+```
 ``` 
 pip install virtualenv 
 ```
